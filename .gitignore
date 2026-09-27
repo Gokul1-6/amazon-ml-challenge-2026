@@ -1,0 +1,11 @@
+dataset/
+output/*.tsv
+output/*.zip
+models/*.pkl
+models/*.joblib
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
